@@ -160,7 +160,7 @@ Whether you're a newbie coder or a wizard 🧙‍♀️, your perspective is gol
 - **Production Lands**: Keploy is currently focused on generating tests for developers. These tests can be captured from any environment, but we have not tested it on high volume production environments. This would need robust deduplication to avoid too many redundant tests being captured. We do have ideas on building a robust deduplication system [#27](https://github.com/keploy/keploy/issues/27)
 
 ## ✨ Resources!
-🤔 [FAQs](https://keploy.io/docs/keploy-explained/faq/)
+🤔 [FAQs](https://keploy.io/docs/keploy-explained/faq/)l
 
 🕵️‍️ [Why Keploy](https://keploy.io/docs/keploy-explained/why-keploy/)
 
